@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Blood-copy/GAME/src"/>
+	<classpathentry kind="src" path="Blood-Of-The-Rift_ProjectOOP/GAME/src"/>
+	<classpathentry kind="src" path="GAME/src"/>
+	<classpathentry kind="src" path="NewRepo-copy/GAME/src"/>
+	<classpathentry kind="lib" path="NewRepo-copy/GAME/out/production/Game/game.jar"/>
+	<classpathentry kind="output" path="Blood-Of-The-Rift_ProjectOOP/GAME/out/production/Game"/>
+</classpath>
